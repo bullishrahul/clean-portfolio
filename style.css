@@ -1,0 +1,49 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.orange-color{
+    color: rgb(169, 223, 23);
+}
+ .flexible-container{
+     display: flex;
+     ;
+ }   
+ .half-width{
+     width: 50pc;
+     padding: 2pc;
+ }
+ .half-width img{
+     width: 30pc;
+     }
+     .link-button{
+        text-decoration: none;
+       background-image: linear-gradient(rgb(247, 61, 14), rgb(178, 236, 18));
+       
+       color: black;
+        font: weight 700px;
+        padding: 10px 40px;
+        border-radius: 10px;
+        }
+        .top-banner{
+            background-image: url(images/how-to-create-cool-website-backgrounds-the-ultimate-guide.png);
+            border-radius: 30px;
+        }
+        .experience-item{
+            box-shadow: 20px 20px 40px yellowgreen;
+            width: 50pc;
+            padding: 2pc;
+            margin-left: 5pc;
+            margin-right: 5pc;
+            padding-left: 20px;
+            border-radius: 20px;
+            
+            }
+            #joy{
+                border-left: 10px solid rgb(160, 233, 14);
+                border-image: linear-gradient ;
+            }
+       
+        
